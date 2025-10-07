@@ -1,4 +1,4 @@
-import TodoItem from "@/components/ui/todoitem";
+import TodoItem from "@/components/ui/Todoitem";
 import React from "react";
 import { SafeAreaView, StyleSheet, Text, View } from "react-native";
 
